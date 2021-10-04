@@ -1,0 +1,26 @@
+
+body {
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    /* height: 400px;
+    width: 400px; */
+    margin: auto;
+}
+
+.cell {
+    text-align: center;
+    background-color: gray;
+    height: 50px;
+    width: 50px;
+}
+
+.cell:hover {
+    background-color: black;
+}
+
+.shown {
+    background-color: wheat;
+}
